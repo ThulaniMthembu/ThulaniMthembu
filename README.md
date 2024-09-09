@@ -3,7 +3,13 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mthembu-thulani-6a2361115/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thulani_majxr)
+<a href="https://www.linkedin.com/in/mthembu-thulani-6a2361115/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://tiktok.com/@thulani_majxr" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok">
+</a>
+
 
 
 # 💻 Tech Stack:
