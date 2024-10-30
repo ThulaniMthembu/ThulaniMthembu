@@ -2,8 +2,6 @@
 👋<br>Hi, I’m @ThulaniMthembu<br><br>👀<br>I'm an aspiring frontend developer with a passion for creating beautiful and functional web applications. I love learning new technologies and improving my skills through hands-on projects and continuous learning.<br><br>🌱 I'm constantly exploring new technologies and improving my coding skills. Currently, I'm focused on:<br><br>Enhancing my JavaScript knowledge<br>Learning backend development with Node.js and Express.js<br>Building more complex and interactive web applications<br>📫<br><br>Email: [thulanim457@gmail.com]
 <br>Website: [https://www.devmajxr.co.za]
 
-https://www.devmajxr.co.za/
-
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/mthembu-thulani-6a2361115/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
